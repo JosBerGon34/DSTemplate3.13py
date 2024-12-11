@@ -2,5 +2,5 @@
     "name": "DS3.13plantilla",
     "image": "python:3.13-slim-buster",
     "postCreateCommand": "pip install --upgrade pip && pip install jupyterlab",
-    "workspaceFolder": "/workspace3.13/" // Mapearía la raíz de tu proyecto local a /workspace/my_project dentro del contenedor
+    "workspaceFolder": "/DSTemplate3.13py/" // Mapearía la raíz de tu proyecto local a /workspace/my_project dentro del contenedor
 }
